@@ -1,2 +1,2 @@
-# git-test
+# gitTest
 This is a git project
