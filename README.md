@@ -1,2 +1,2 @@
 # git-test
-This is a Git exercise
+This is a git project
